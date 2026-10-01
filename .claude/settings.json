@@ -1,0 +1,18 @@
+{
+  "extraKnownMarketplaces": {
+    "medusa": {
+      "source": { "source": "github", "repo": "medusajs/medusa-agent-skills" }
+    },
+    "ui-ux-pro-max-skill": {
+      "source": { "source": "github", "repo": "nextlevelbuilder/ui-ux-pro-max-skill" }
+    },
+    "ecc": {
+      "source": { "source": "git", "url": "https://github.com/affaan-m/ECC.git" }
+    }
+  },
+  "enabledPlugins": {
+    "medusa-dev@medusa": true,
+    "ui-ux-pro-max@ui-ux-pro-max-skill": true,
+    "ecc@ecc": true
+  }
+}
